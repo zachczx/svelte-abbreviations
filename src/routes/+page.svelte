@@ -11,7 +11,7 @@
 	<section
 		class="max-w-[60rem] space-y-10 rounded-3xl border border-gray-200 bg-gray-50/50 p-10 backdrop-blur-md lg:p-20">
 		<div>
-			<h1 class="view-logo text-8xl font-extrabold text-primary"><a href="/">Abbreviation</a></h1>
+			<h1 class="view-logo text-8xl font-extrabold text-primary"><a href="/">Letters</a></h1>
 			<p class="text-xl">Fear public sector acronyms no longer!</p>
 		</div>
 		<div>

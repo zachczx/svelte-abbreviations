@@ -43,7 +43,7 @@
 	<section
 		class="h-full space-y-10 rounded-3xl border border-gray-200 bg-gray-50/70 p-10 backdrop-blur-md lg:w-[60rem]">
 		<div>
-			<h1 class="view-logo text-8xl font-extrabold text-primary"><a href="/">Abbreviations</a></h1>
+			<h1 class="view-logo text-8xl font-extrabold text-primary"><a href="/">Letters</a></h1>
 		</div>
 
 		<div class="space-y-8">
