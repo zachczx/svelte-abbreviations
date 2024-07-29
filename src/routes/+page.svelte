@@ -7,7 +7,7 @@
 	<title>Letters</title>
 </svelte:head>
 
-<main class="background-svg grid h-full content-center justify-items-center">
+<main class="grid h-full content-center justify-items-center">
 	<section
 		class="max-w-[60rem] space-y-10 rounded-3xl border border-gray-200 bg-gray-50/50 p-10 backdrop-blur-md lg:p-20">
 		<div>
@@ -15,7 +15,7 @@
 			<p class="text-xl">Fear public sector acronyms no longer!</p>
 		</div>
 		<div>
-			<form method="post" use:enhance>
+			<form method="post" action="/" use:enhance>
 				<label class="relative">
 					<input
 						type="text"

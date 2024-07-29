@@ -18,7 +18,7 @@
 	});
 </script>
 
-<div class="background-svg grid min-h-[100dvh] grid-rows-[auto_1fr_auto]">
+<div class="background-svg view-mega grid min-h-[100dvh] grid-rows-[auto_1fr_auto]">
 	<header></header>
 	<slot />
 	<footer class="text-center">Copyright © 2024 Zixian Chen. All rights reserved.</footer>
@@ -59,5 +59,9 @@
 		animation:
 			210ms cubic-bezier(0, 0, 0.2, 1) 90ms both fade-in,
 			300ms cubic-bezier(0.4, 0, 0.2, 1) both slide-from-right;
+	}
+
+	.view-mega {
+		view-transition-name: view-mega;
 	}
 </style>
