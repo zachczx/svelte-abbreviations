@@ -1,9 +1,10 @@
 <script>
 	import { onMount } from 'svelte';
 
+	/** @type {import('./$types').PageData} */
 	let { data } = $props();
 
-	let filterInput = $state('');
+	let filterInput = $state(data.keyword);
 
 	onMount(() => {
 		const abvElements = document.getElementsByClassName('abvEntry');
