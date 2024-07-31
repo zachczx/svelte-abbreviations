@@ -8,8 +8,8 @@
 </script>
 
 <svelte:head>
-	<meta description="Find a public sector abbreviation!" />
-	<title>Letters</title>
+	<meta description="Find a public sector acronym!" />
+	<title>Abbreviations</title>
 </svelte:head>
 
 <main class="grid h-full content-center justify-items-center">
